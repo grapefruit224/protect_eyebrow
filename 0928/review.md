@@ -2,7 +2,7 @@
 
 4문제 중에 3문제를 풀었는데, 한 문제는 시간이 부족해서도 그랬고 모두가 풀지 못했다..
 
-![Alt text](/Users/isojeong/Documents/mot.png)
+![Alt text](mot.png)
 
 이건데... 좀 더 고민해봐야겠다.
 
